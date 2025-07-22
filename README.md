@@ -47,3 +47,25 @@ This project aims to build a predictive model that estimates the fare of a trip 
 - **Model Persistence**: Pickle
 
 **Installation**
+
+1. Clone the repository
+
+git clone https://github.com/SenthilTimu/TripFare-Prediction.git
+cd TripFare-Prediction
+
+2. Create a virtual environment (recommended)
+
+python3 -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+3. Install dependencies
+   
+pip install requests mysql-connector-python
+
+**Model Training & Evaluation**
+
+- Trained using regression algorithms—Random Forest, Gradient Boosting, etc.
+
+- Evaluated on metrics like MAE (Mean Absolute Error), RMSE, and R².
+
+- Model artifacts stored in models/ with associated evaluation logs/plots.
