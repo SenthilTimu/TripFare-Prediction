@@ -12,19 +12,7 @@ A machine learning project for predicting ride fares (e.g., taxis, ride‑sharin
 
 - Installation
 
-- Usage
-
 - Model Training & Evaluation
-
-- Web/API Deployment
-
-- Directory Structure
-
-- Future Improvements
-
-- Contributing
-
-- License & Contact
 
 **Project Overview**
 
